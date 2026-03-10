@@ -2,11 +2,7 @@
 
 This project now supports one-command local startup with Docker Compose.
 
-```
-
-<img width="1808" height="814" alt="resim" src="https://github.com/user-attachments/assets/d08d899c-908a-4f20-bc2a-1d95f85e3066" />
-
-```
+<img width="1808" height="814" alt="api" src="https://github.com/user-attachments/assets/d08d899c-908a-4f20-bc2a-1d95f85e3066" />
 
 ## Why these Docker files exist
 
