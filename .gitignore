@@ -7,15 +7,32 @@ obj/
 *.user
 *.suo
 
-# Rider
+# Build outputs
+bin/
+obj/
+
+# Rider / VSCode / VS
+.vs/
 .idea/
+*.user
+*.suo
+
+# Logs
+*.log
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-
 # Environment files
 .env
+.env.local
+
+# Docker
+docker-data/
+
+# Node (ileride frontend eklenirse)
+node_modules/
+
+# Publish
+publish/
